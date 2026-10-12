@@ -1,5 +1,3 @@
-# Hey, I'm John 👋
-
 Network and infrastructure engineer by day, tinkerer, farmer, and beekeeper the rest of the time.
 
 - 🌐 **Day job:** enterprise networking and IT infrastructure in oil and gas
