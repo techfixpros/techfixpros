@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm John 👋
 
-<!--
-**techfixpros/techfixpros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network and infrastructure engineer by day, tinkerer, farmer, and beekeeper the rest of the time.
 
-Here are some ideas to get you started:
+- 🌐 **Day job:** enterprise networking and IT infrastructure in oil and gas
+- 🖥️ **Homelab:** I self-host whatever I can, currently 260+ containers and growing
+- 💾 **Retro:** researching and restoring vintage computers and electronics
+- 📡 **Licensed ham radio nut**
+- 🐓 **Homestead:** chickens, turkeys, guineas, quail, goats, and pigs (cows someday)
+- 🐝 **Bees:** I keep hives and sell the honey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=techfixpros&theme=dark&hide_border=true&timezone=CST&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
